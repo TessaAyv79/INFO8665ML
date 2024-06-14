@@ -1,6 +1,6 @@
 # Tessa Ayvazoglu
 # 13/06/2024
-# ML programing project
+
 import streamlit as st
 import yfinance as yf
 import pandas as pd
