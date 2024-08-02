@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Analysis Results</title>
+</head>
+<body>
+    {% for plot in plots %}
+        <img src="{{ plot }}" alt="Stock Plot">
+    {% endfor %}
+</body>
+</html>

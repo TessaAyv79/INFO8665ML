@@ -1,0 +1,24 @@
+# Define the version of the configuration file format
+version = 2
+
+# Define the rules for detecting secrets
+[[rules]]
+description = "Generic API Key"
+regex = '''(?:api|key|token|secret|pass|pwd|password|auth|bearer|session|access|username|login|private|pubkey|secretkey|s3_key|aws_key|azure_key|google_key|gcp_key|k8s_token|jwt|private_key|xoxp|xoxb|xoxc|xoxs|slack_token|slack_key|slack_auth|v1|v2|v3|v4|v5|v6|v7|v8|v9|^[a-zA-Z0-9_]*[=|:|\s|\-|_|\/|\,|\.|\?|\.|\!|\\|\*].*[A-Za-z0-9]{10,})'''
+
+[[rules]]
+description = "AWS Secret Access Key"
+regex = '''AKIA[0-9A-Z]{16}'''
+
+# Customize the detection settings
+[[rules]]
+description = "Custom API Key"
+regex = '''[A-Za-z0-9]{32}'''
+
+[allowlist]
+# Add files or paths to exclude from scanning
+files = ["path/to/ignore"]
+
+[detect]
+# Include additional options for scanning
+include = ["*.py", "*.js"]

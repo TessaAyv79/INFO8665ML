@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - NAME=World
+    networks:
+      - app-network
+networks:
+  app-network:
+    driver: bridge

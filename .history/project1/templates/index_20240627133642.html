@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Data Visualization</title>
+    <style>
+        .button-container {
+            margin: 20px;
+        }
+        .graph-container {
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="button-container">
+        <select id="ticker-select">
+            <option value="JPM">JPMORGAN</option>
+            <option value="BAC">BANK OF AMERICA</option>
+            <option value="WFC">Wells Fargo</option>
+            <option value="C">Citigroup</option>
+        </select>
+        <button onclick="loadGraph('adj_close')">Show Adjusted Close Price</button>
+        <button onclick="loadGraph('volume')">Show Volume</button>
+        <button onclick="loadGraph('moving_avg')">Show Moving Averages</button>
+    </div>
+    <div class="graph-container">
+        <img id="graph" src="" alt="Graph will be displayed here">
+    </div>
+
+    <script>
+        function loadGraph(plotType) {
+            const ticker = document.getElementById('ticker-select').value;
+            fetch(`/get_plot?ticker=${ticker}&plot_type=${plotType}`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('graph').src = 'data:image/png;base64,' + data.plot_url;
+                });
+        }
+    </script>
+</body>
+</html>
