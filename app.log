@@ -1,0 +1,22 @@
+2024-07-23 15:15:46,295 - __main__ - INFO - Application started
+2024-07-23 15:15:46,296 - __main__ - INFO - Performing some tasks...
+2024-07-23 15:15:46,296 - __main__ - INFO - Application finished
+2024-07-23 15:34:28,536 - __main__ - INFO - Application started
+2024-07-23 15:34:28,537 - __main__ - INFO - Performing some tasks...
+2024-07-23 15:34:28,537 - __main__ - INFO - Application finished
+2024-07-23 15:37:26,094 - __main__ - INFO - Application started
+2024-07-23 15:37:26,095 - __main__ - INFO - Performing some tasks...
+2024-07-23 15:37:26,095 - __main__ - INFO - Application finished
+2024-07-23 15:37:26,725 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-23 15:39:11,108 - __main__ - INFO - Application started
+2024-07-23 15:39:11,109 - __main__ - INFO - Performing some tasks...
+2024-07-23 15:39:11,109 - __main__ - INFO - Application finished
+2024-07-23 15:48:15,748 - __main__ - INFO - Application started
+2024-07-23 15:48:15,749 - __main__ - INFO - Performing some tasks...
+2024-07-23 15:48:15,749 - __main__ - INFO - Application finished
+2024-07-23 15:48:16,482 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-23 15:48:46,548 - __main__ - INFO - Application started
+2024-07-23 15:48:46,549 - __main__ - INFO - Performing some tasks...
+2024-07-23 15:48:46,549 - __main__ - INFO - Application finished
