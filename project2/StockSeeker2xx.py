@@ -1,6 +1,7 @@
 # Tessa Ayvazoglu
-# 13/06/2024
+# 02/08/2024
 # ML programing project
+# FINAL VERSION
 
 import streamlit as st
 import yfinance as yf
