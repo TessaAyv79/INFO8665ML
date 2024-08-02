@@ -1,0 +1,1784 @@
+2024-07-18 12:11:34,217 - __main__ - INFO - Application started
+2024-07-18 12:11:34,218 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:34,218 - __main__ - INFO - Application finished
+2024-07-18 12:11:35,036 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-18 12:11:42,315 - __main__ - INFO - Application started
+2024-07-18 12:11:42,315 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:42,316 - __main__ - INFO - Application finished
+2024-07-18 12:11:45,099 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-18 12:11:45,256 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-18 12:11:45,262 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-18 12:11:45,263 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-18 12:11:45,275 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpl7yr7b7p\gs3dyi3s.json
+2024-07-18 12:11:45,281 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpl7yr7b7p\kwa5twie.json
+2024-07-18 12:11:45,284 - cmdstanpy - DEBUG - idx 0
+2024-07-18 12:11:45,284 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-18 12:11:45,284 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=48981', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpl7yr7b7p\\gs3dyi3s.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpl7yr7b7p\\kwa5twie.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpl7yr7b7p\\prophet_modelblin72qn\\prophet_model-20240718121145.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-18 12:11:45,285 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-18 12:11:45,455 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-18 12:11:48,220 - __main__ - INFO - Application started
+2024-07-18 12:11:48,221 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:48,221 - __main__ - INFO - Application finished
+2024-07-18 12:11:49,651 - __main__ - INFO - Application started
+2024-07-18 12:11:49,652 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:49,653 - __main__ - INFO - Application finished
+2024-07-18 12:11:49,885 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-18 12:11:50,026 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-18 12:11:53,120 - __main__ - INFO - Application started
+2024-07-18 12:11:53,120 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:53,122 - __main__ - INFO - Application finished
+2024-07-18 12:11:54,040 - __main__ - INFO - Application started
+2024-07-18 12:11:54,041 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:54,041 - __main__ - INFO - Application finished
+2024-07-18 12:11:55,135 - __main__ - INFO - Application started
+2024-07-18 12:11:55,135 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:55,136 - __main__ - INFO - Application finished
+2024-07-18 12:11:56,131 - __main__ - INFO - Application started
+2024-07-18 12:11:56,132 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:56,132 - __main__ - INFO - Application finished
+2024-07-18 12:11:56,180 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-18 12:11:56,314 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-18 12:11:56,318 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-18 12:11:56,319 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-18 12:11:56,332 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpl7yr7b7p\58tj051u.json
+2024-07-18 12:11:56,340 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpl7yr7b7p\c9hq1c1p.json
+2024-07-18 12:11:56,342 - cmdstanpy - DEBUG - idx 0
+2024-07-18 12:11:56,342 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-18 12:11:56,343 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=5835', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpl7yr7b7p\\58tj051u.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpl7yr7b7p\\c9hq1c1p.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpl7yr7b7p\\prophet_modeldq9l5bie\\prophet_model-20240718121156.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-18 12:11:56,343 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-18 12:11:56,418 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-18 12:11:58,205 - __main__ - INFO - Application started
+2024-07-18 12:11:58,205 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:11:58,206 - __main__ - INFO - Application finished
+2024-07-18 12:28:55,174 - __main__ - INFO - Application started
+2024-07-18 12:28:55,175 - __main__ - INFO - Application started
+2024-07-18 12:28:55,175 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:28:55,175 - __main__ - INFO - Application started
+2024-07-18 12:28:55,175 - __main__ - INFO - Application started
+2024-07-18 12:28:55,176 - __main__ - INFO - Application started
+2024-07-18 12:28:55,176 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:28:55,176 - __main__ - INFO - Application finished
+2024-07-18 12:28:55,178 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:28:55,178 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:28:55,178 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:28:55,178 - __main__ - INFO - Application finished
+2024-07-18 12:28:55,179 - __main__ - INFO - Application finished
+2024-07-18 12:28:55,179 - __main__ - INFO - Application finished
+2024-07-18 12:28:55,180 - __main__ - INFO - Application finished
+2024-07-18 12:28:57,138 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-18 12:28:59,839 - __main__ - INFO - Application started
+2024-07-18 12:28:59,840 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:28:59,841 - __main__ - INFO - Application finished
+2024-07-18 12:29:00,669 - __main__ - INFO - Application started
+2024-07-18 12:29:00,669 - __main__ - INFO - Performing some tasks...
+2024-07-18 12:29:00,670 - __main__ - INFO - Application finished
+2024-07-18 13:29:54,085 - __main__ - INFO - Application started
+2024-07-18 13:29:54,086 - __main__ - INFO - Performing some tasks...
+2024-07-18 13:29:54,086 - __main__ - INFO - Application finished
+2024-07-18 13:29:54,878 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-18 13:30:23,136 - __main__ - INFO - Application started
+2024-07-18 13:30:23,137 - __main__ - INFO - Performing some tasks...
+2024-07-18 13:30:23,137 - __main__ - INFO - Application finished
+2024-07-18 13:30:24,083 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-18 13:30:24,168 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-18 13:30:24,176 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-18 13:30:24,177 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-18 13:30:24,191 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpj5alvg43\04lsio0s.json
+2024-07-18 13:30:24,199 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpj5alvg43\_t0rgsxv.json
+2024-07-18 13:30:24,201 - cmdstanpy - DEBUG - idx 0
+2024-07-18 13:30:24,202 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-18 13:30:24,202 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=85618', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpj5alvg43\\04lsio0s.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpj5alvg43\\_t0rgsxv.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpj5alvg43\\prophet_modelg4qdpsxs\\prophet_model-20240718133024.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-18 13:30:24,203 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-18 13:30:24,331 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-18 15:24:17,329 - __main__ - INFO - Application started
+2024-07-18 15:24:17,329 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:17,329 - __main__ - INFO - Application finished
+2024-07-18 15:24:18,246 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-18 15:24:24,013 - __main__ - INFO - Application started
+2024-07-18 15:24:24,014 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:24,014 - __main__ - INFO - Application finished
+2024-07-18 15:24:26,118 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-18 15:24:26,262 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-18 15:24:26,264 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-18 15:24:26,264 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-18 15:24:26,280 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpu1ci25jo\v7y_8lhd.json
+2024-07-18 15:24:26,288 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpu1ci25jo\gmwel93g.json
+2024-07-18 15:24:26,290 - cmdstanpy - DEBUG - idx 0
+2024-07-18 15:24:26,290 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-18 15:24:26,290 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=32829', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpu1ci25jo\\v7y_8lhd.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpu1ci25jo\\gmwel93g.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpu1ci25jo\\prophet_modeltej1izyf\\prophet_model-20240718152426.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-18 15:24:26,290 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-18 15:24:26,417 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-18 15:24:42,589 - __main__ - INFO - Application started
+2024-07-18 15:24:42,590 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:42,590 - __main__ - INFO - Application finished
+2024-07-18 15:24:44,768 - __main__ - INFO - Application started
+2024-07-18 15:24:44,768 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:44,768 - __main__ - INFO - Application finished
+2024-07-18 15:24:45,816 - __main__ - INFO - Application started
+2024-07-18 15:24:45,817 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:45,817 - __main__ - INFO - Application finished
+2024-07-18 15:24:46,650 - __main__ - INFO - Application started
+2024-07-18 15:24:46,651 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:46,652 - __main__ - INFO - Application finished
+2024-07-18 15:24:46,929 - __main__ - INFO - Application started
+2024-07-18 15:24:46,929 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:46,933 - __main__ - INFO - Application finished
+2024-07-18 15:24:47,285 - __main__ - INFO - Application started
+2024-07-18 15:24:47,285 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:47,285 - __main__ - INFO - Application finished
+2024-07-18 15:24:47,789 - __main__ - INFO - Application started
+2024-07-18 15:24:47,789 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:47,789 - __main__ - INFO - Application finished
+2024-07-18 15:24:53,042 - __main__ - INFO - Application started
+2024-07-18 15:24:53,042 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:24:53,042 - __main__ - INFO - Application finished
+2024-07-18 15:25:01,265 - __main__ - INFO - Application started
+2024-07-18 15:25:01,265 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:25:01,265 - __main__ - INFO - Application finished
+2024-07-18 15:38:53,521 - __main__ - INFO - Application started
+2024-07-18 15:38:53,525 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:38:53,525 - __main__ - INFO - Application finished
+2024-07-18 15:39:01,997 - __main__ - INFO - Application started
+2024-07-18 15:39:01,997 - __main__ - INFO - Performing some tasks...
+2024-07-18 15:39:01,997 - __main__ - INFO - Application finished
+2024-07-18 16:12:47,481 - __main__ - INFO - Application started
+2024-07-18 16:12:47,489 - __main__ - INFO - Performing some tasks...
+2024-07-18 16:12:47,489 - __main__ - INFO - Application finished
+2024-07-18 16:12:47,783 - __main__ - INFO - Application started
+2024-07-18 16:12:47,783 - __main__ - INFO - Performing some tasks...
+2024-07-18 16:12:47,783 - __main__ - INFO - Application finished
+2024-07-18 17:33:12,270 - __main__ - INFO - Application started
+2024-07-18 17:33:12,270 - __main__ - INFO - Performing some tasks...
+2024-07-18 17:33:12,271 - __main__ - INFO - Application finished
+2024-07-18 17:34:10,496 - __main__ - INFO - Application started
+2024-07-18 17:34:10,497 - __main__ - INFO - Performing some tasks...
+2024-07-18 17:34:10,497 - __main__ - INFO - Application finished
+2024-07-18 19:41:43,652 - __main__ - INFO - Application started
+2024-07-18 19:41:43,652 - __main__ - INFO - Performing some tasks...
+2024-07-18 19:41:43,652 - __main__ - INFO - Application finished
+2024-07-18 20:44:22,421 - __main__ - INFO - Application started
+2024-07-18 20:44:22,429 - __main__ - INFO - Performing some tasks...
+2024-07-18 20:44:22,429 - __main__ - INFO - Application finished
+2024-07-19 13:03:17,801 - __main__ - INFO - Application started
+2024-07-19 13:03:17,808 - __main__ - INFO - Performing some tasks...
+2024-07-19 13:03:17,812 - __main__ - INFO - Application finished
+2024-07-19 13:03:18,514 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-19 13:03:18,683 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-19 13:03:18,699 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-19 13:03:18,699 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-19 13:03:18,732 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpu1ci25jo\m_bxl150.json
+2024-07-19 13:03:18,780 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpu1ci25jo\bhnjh1gz.json
+2024-07-19 13:03:18,780 - cmdstanpy - DEBUG - idx 0
+2024-07-19 13:03:18,780 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-19 13:03:18,780 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=26699', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpu1ci25jo\\m_bxl150.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpu1ci25jo\\bhnjh1gz.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpu1ci25jo\\prophet_modeltbam78yw\\prophet_model-20240719130318.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-19 13:03:18,788 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-19 13:03:18,973 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-19 19:59:48,210 - __main__ - INFO - Application started
+2024-07-19 19:59:48,210 - __main__ - INFO - Application started
+2024-07-19 19:59:48,210 - __main__ - INFO - Performing some tasks...
+2024-07-19 19:59:48,210 - __main__ - INFO - Performing some tasks...
+2024-07-19 19:59:48,211 - __main__ - INFO - Application finished
+2024-07-19 19:59:48,211 - __main__ - INFO - Application finished
+2024-07-19 19:59:49,290 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-19 19:59:52,202 - __main__ - INFO - Application started
+2024-07-19 19:59:52,203 - __main__ - INFO - Performing some tasks...
+2024-07-19 19:59:52,203 - __main__ - INFO - Application finished
+2024-07-19 19:59:52,218 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-19 19:59:52,372 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-19 19:59:52,380 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-19 19:59:52,380 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-19 19:59:52,395 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\6imaypau.json
+2024-07-19 19:59:52,401 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\owa150cg.json
+2024-07-19 19:59:52,404 - cmdstanpy - DEBUG - idx 0
+2024-07-19 19:59:52,405 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-19 19:59:52,405 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=91125', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\6imaypau.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\owa150cg.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\prophet_modelqorj085a\\prophet_model-20240719195952.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-19 19:59:52,405 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-19 19:59:52,566 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-19 19:59:55,876 - __main__ - INFO - Application started
+2024-07-19 19:59:55,876 - __main__ - INFO - Performing some tasks...
+2024-07-19 19:59:55,877 - __main__ - INFO - Application finished
+2024-07-19 20:00:01,985 - __main__ - INFO - Application started
+2024-07-19 20:00:01,986 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:01,987 - __main__ - INFO - Application finished
+2024-07-19 20:00:11,581 - __main__ - INFO - Application started
+2024-07-19 20:00:11,582 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:11,582 - __main__ - INFO - Application finished
+2024-07-19 20:00:12,116 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-19 20:00:12,237 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-19 20:00:12,241 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-19 20:00:12,241 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-19 20:00:12,248 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\dn5skxf5.json
+2024-07-19 20:00:12,259 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\dj2q2rmn.json
+2024-07-19 20:00:12,261 - cmdstanpy - DEBUG - idx 0
+2024-07-19 20:00:12,261 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-19 20:00:12,261 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=41934', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\dn5skxf5.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\dj2q2rmn.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\prophet_modelrehtuozx\\prophet_model-20240719200012.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-19 20:00:12,262 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-19 20:00:12,376 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-19 20:00:14,631 - __main__ - INFO - Application started
+2024-07-19 20:00:14,632 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:14,632 - __main__ - INFO - Application finished
+2024-07-19 20:00:14,841 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-19 20:00:14,996 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-19 20:00:15,003 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-19 20:00:15,017 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\nejpwtn6.json
+2024-07-19 20:00:15,065 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\6yjn_lq1.json
+2024-07-19 20:00:15,067 - cmdstanpy - DEBUG - idx 0
+2024-07-19 20:00:15,067 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-19 20:00:15,067 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=79955', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\nejpwtn6.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\6yjn_lq1.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\prophet_model4ge_bivg\\prophet_model-20240719200015.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-19 20:00:15,067 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-19 20:00:15,242 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-19 20:00:15,272 - __main__ - INFO - Application started
+2024-07-19 20:00:15,274 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:15,274 - __main__ - INFO - Application finished
+2024-07-19 20:00:19,802 - __main__ - INFO - Application started
+2024-07-19 20:00:19,803 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:19,803 - __main__ - INFO - Application finished
+2024-07-19 20:00:41,547 - __main__ - INFO - Application started
+2024-07-19 20:00:41,548 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:41,548 - __main__ - INFO - Application finished
+2024-07-19 20:00:41,754 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-19 20:00:41,888 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-19 20:00:41,893 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-19 20:00:41,903 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\6c5p2vq5.json
+2024-07-19 20:00:41,953 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\mxp9ysyk.json
+2024-07-19 20:00:41,954 - cmdstanpy - DEBUG - idx 0
+2024-07-19 20:00:41,955 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-19 20:00:41,955 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=99723', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\6c5p2vq5.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\mxp9ysyk.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\prophet_model676v55jt\\prophet_model-20240719200041.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-19 20:00:41,955 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-19 20:00:42,195 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-19 20:00:42,478 - __main__ - INFO - Application started
+2024-07-19 20:00:42,478 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:42,479 - __main__ - INFO - Application finished
+2024-07-19 20:00:43,087 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-19 20:00:43,214 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-19 20:00:43,220 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-19 20:00:43,232 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\onmqlfnc.json
+2024-07-19 20:00:43,291 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp6ixj9zzj\_mjfuz0r.json
+2024-07-19 20:00:43,294 - cmdstanpy - DEBUG - idx 0
+2024-07-19 20:00:43,294 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-19 20:00:43,294 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=15120', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\onmqlfnc.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\_mjfuz0r.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp6ixj9zzj\\prophet_modellih2dgcy\\prophet_model-20240719200043.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-19 20:00:43,294 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-19 20:00:43,608 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-19 20:00:43,929 - __main__ - INFO - Application started
+2024-07-19 20:00:43,929 - __main__ - INFO - Performing some tasks...
+2024-07-19 20:00:43,930 - __main__ - INFO - Application finished
+2024-07-19 20:01:00,451 - tensorflow - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000019E82D7DD00> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-07-22 16:09:46,795 - __main__ - INFO - Application started
+2024-07-22 16:09:46,795 - __main__ - INFO - Performing some tasks...
+2024-07-22 16:09:46,796 - __main__ - INFO - Application finished
+2024-07-22 16:09:47,619 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-22 16:09:54,176 - __main__ - INFO - Application started
+2024-07-22 16:09:54,176 - __main__ - INFO - Performing some tasks...
+2024-07-22 16:09:54,176 - __main__ - INFO - Application finished
+2024-07-22 16:09:57,895 - __main__ - INFO - Application started
+2024-07-22 16:09:57,896 - __main__ - INFO - Performing some tasks...
+2024-07-22 16:09:57,896 - __main__ - INFO - Application finished
+2024-07-22 16:10:00,647 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 16:10:00,781 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-22 16:10:00,788 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 16:10:00,804 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\3385jka_.json
+2024-07-22 16:10:00,843 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\di6otm86.json
+2024-07-22 16:10:00,845 - cmdstanpy - DEBUG - idx 0
+2024-07-22 16:10:00,845 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 16:10:00,845 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=50205', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\3385jka_.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\di6otm86.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_modeluzjvsipz\\prophet_model-20240722161000.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 16:10:00,846 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 16:10:01,061 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:24:13,897 - __main__ - INFO - Application started
+2024-07-22 19:24:13,901 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:24:13,904 - __main__ - INFO - Application finished
+2024-07-22 19:55:28,142 - __main__ - INFO - Application started
+2024-07-22 19:55:28,142 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:28,143 - __main__ - INFO - Application finished
+2024-07-22 19:55:29,984 - __main__ - INFO - Application started
+2024-07-22 19:55:29,985 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:29,985 - __main__ - INFO - Application finished
+2024-07-22 19:55:30,577 - __main__ - INFO - Application started
+2024-07-22 19:55:30,577 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:30,578 - __main__ - INFO - Application finished
+2024-07-22 19:55:31,393 - __main__ - INFO - Application started
+2024-07-22 19:55:31,393 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:31,393 - __main__ - INFO - Application finished
+2024-07-22 19:55:31,843 - __main__ - INFO - Application started
+2024-07-22 19:55:31,859 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:31,860 - __main__ - INFO - Application finished
+2024-07-22 19:55:33,415 - __main__ - INFO - Application started
+2024-07-22 19:55:33,416 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:33,416 - __main__ - INFO - Application finished
+2024-07-22 19:55:33,940 - __main__ - INFO - Application started
+2024-07-22 19:55:33,940 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:33,941 - __main__ - INFO - Application finished
+2024-07-22 19:55:35,707 - __main__ - INFO - Application started
+2024-07-22 19:55:35,707 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:55:35,708 - __main__ - INFO - Application finished
+2024-07-22 19:56:07,450 - __main__ - INFO - Application started
+2024-07-22 19:56:07,451 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:07,451 - __main__ - INFO - Application finished
+2024-07-22 19:56:07,586 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:07,720 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:07,723 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-22 19:56:07,723 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:07,730 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\m7_ypx9t.json
+2024-07-22 19:56:07,735 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\dj1vasla.json
+2024-07-22 19:56:07,737 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:07,737 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:07,738 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=23738', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\m7_ypx9t.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\dj1vasla.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_model840pfry8\\prophet_model-20240722195607.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:07,738 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:07,857 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:08,671 - __main__ - INFO - Application started
+2024-07-22 19:56:08,672 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:08,673 - __main__ - INFO - Application finished
+2024-07-22 19:56:27,216 - __main__ - INFO - Application started
+2024-07-22 19:56:27,217 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:27,217 - __main__ - INFO - Application finished
+2024-07-22 19:56:27,438 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:27,498 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:27,502 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-22 19:56:27,502 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:27,509 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\i6zlqnfc.json
+2024-07-22 19:56:27,520 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\mfijgu7h.json
+2024-07-22 19:56:27,521 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:27,521 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:27,521 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=12770', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\i6zlqnfc.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\mfijgu7h.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_modelihtde0he\\prophet_model-20240722195627.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:27,522 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:27,607 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:27,966 - __main__ - INFO - Application started
+2024-07-22 19:56:27,966 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:27,967 - __main__ - INFO - Application finished
+2024-07-22 19:56:28,396 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:28,513 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:28,518 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:28,527 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\rnmjkekn.json
+2024-07-22 19:56:28,594 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\6y_fgwh8.json
+2024-07-22 19:56:28,596 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:28,597 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:28,597 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=67669', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\rnmjkekn.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\6y_fgwh8.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_model9tug5a_f\\prophet_model-20240722195628.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:28,598 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:28,877 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:28,945 - __main__ - INFO - Application started
+2024-07-22 19:56:28,946 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:28,946 - __main__ - INFO - Application finished
+2024-07-22 19:56:29,182 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:29,303 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:29,313 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:29,617 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\r_3cib2f.json
+2024-07-22 19:56:29,686 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\7xuyzhmo.json
+2024-07-22 19:56:29,687 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:29,687 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:29,688 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=73727', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\r_3cib2f.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\7xuyzhmo.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_modellrqmyp4o\\prophet_model-20240722195629.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:29,688 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:29,831 - __main__ - INFO - Application started
+2024-07-22 19:56:29,832 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:29,832 - __main__ - INFO - Application finished
+2024-07-22 19:56:30,061 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:30,186 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:30,191 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:30,202 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\n9uj5u1w.json
+2024-07-22 19:56:30,240 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:30,283 - __main__ - INFO - Application started
+2024-07-22 19:56:30,287 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:30,295 - __main__ - INFO - Application finished
+2024-07-22 19:56:30,300 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\li85oz95.json
+2024-07-22 19:56:30,303 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:30,306 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:30,310 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=76592', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\n9uj5u1w.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\li85oz95.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_modelis600m7w\\prophet_model-20240722195630.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:30,313 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:30,537 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:30,647 - __main__ - INFO - Application started
+2024-07-22 19:56:30,647 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:30,648 - __main__ - INFO - Application finished
+2024-07-22 19:56:30,655 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:30,665 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:30,682 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\7uscbhvm.json
+2024-07-22 19:56:30,791 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\jtz8k1hg.json
+2024-07-22 19:56:30,792 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:30,793 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:30,793 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=24540', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\7uscbhvm.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\jtz8k1hg.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_modelw_yebw80\\prophet_model-20240722195630.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:30,793 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:30,858 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:30,911 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:31,125 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:31,289 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:31,301 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\vwqhq6em.json
+2024-07-22 19:56:31,329 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:31,478 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\msvw6syt.json
+2024-07-22 19:56:31,485 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:31,485 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:31,485 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=16638', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\vwqhq6em.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\msvw6syt.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_models0y9uo43\\prophet_model-20240722195631.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:31,486 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:31,501 - __main__ - INFO - Application started
+2024-07-22 19:56:31,502 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:31,502 - __main__ - INFO - Application finished
+2024-07-22 19:56:32,348 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 19:56:46,886 - __main__ - INFO - Application started
+2024-07-22 19:56:46,887 - __main__ - INFO - Performing some tasks...
+2024-07-22 19:56:46,887 - __main__ - INFO - Application finished
+2024-07-22 19:56:47,108 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 19:56:47,224 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 19:56:47,228 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-22 19:56:47,236 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\mfvqns1s.json
+2024-07-22 19:56:47,284 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp10wpe34e\9rfl58i0.json
+2024-07-22 19:56:47,285 - cmdstanpy - DEBUG - idx 0
+2024-07-22 19:56:47,285 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-22 19:56:47,285 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=33895', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\mfvqns1s.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\9rfl58i0.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp10wpe34e\\prophet_model53t1j3h0\\prophet_model-20240722195647.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-22 19:56:47,286 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-22 19:56:47,516 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-22 20:03:11,029 - __main__ - INFO - Application started
+2024-07-22 20:03:11,030 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:03:11,030 - __main__ - INFO - Application finished
+2024-07-22 20:03:16,934 - __main__ - INFO - Application started
+2024-07-22 20:03:16,934 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:03:16,935 - __main__ - INFO - Application finished
+2024-07-22 20:03:23,190 - __main__ - INFO - Application started
+2024-07-22 20:03:23,190 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:03:23,190 - __main__ - INFO - Application finished
+2024-07-22 20:03:24,142 - __main__ - INFO - Application started
+2024-07-22 20:03:24,142 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:03:24,143 - __main__ - INFO - Application finished
+2024-07-22 20:04:13,500 - __main__ - INFO - Application started
+2024-07-22 20:04:13,501 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:13,501 - __main__ - INFO - Application finished
+2024-07-22 20:04:16,953 - __main__ - INFO - Application started
+2024-07-22 20:04:16,954 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:16,954 - __main__ - INFO - Application finished
+2024-07-22 20:04:17,226 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:17,347 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:04:23,716 - __main__ - INFO - Application started
+2024-07-22 20:04:23,716 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:23,716 - __main__ - INFO - Application finished
+2024-07-22 20:04:23,864 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:23,981 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:04:30,991 - __main__ - INFO - Application started
+2024-07-22 20:04:30,991 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:30,992 - __main__ - INFO - Application finished
+2024-07-22 20:04:31,148 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:31,263 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:04:34,999 - __main__ - INFO - Application started
+2024-07-22 20:04:34,999 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:34,999 - __main__ - INFO - Application finished
+2024-07-22 20:04:35,026 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:35,173 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:04:35,735 - __main__ - INFO - Application started
+2024-07-22 20:04:35,736 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:35,736 - __main__ - INFO - Application finished
+2024-07-22 20:04:35,754 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:35,876 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:04:46,999 - __main__ - INFO - Application started
+2024-07-22 20:04:46,999 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:46,999 - __main__ - INFO - Application finished
+2024-07-22 20:04:47,016 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:47,132 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:04:48,818 - __main__ - INFO - Application started
+2024-07-22 20:04:48,818 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:04:48,818 - __main__ - INFO - Application finished
+2024-07-22 20:04:48,837 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:04:48,958 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:33:34,151 - __main__ - INFO - Application started
+2024-07-22 20:33:34,152 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:33:34,152 - __main__ - INFO - Application finished
+2024-07-22 20:33:38,508 - __main__ - INFO - Application started
+2024-07-22 20:33:38,509 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:33:38,509 - __main__ - INFO - Application finished
+2024-07-22 20:33:38,529 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:33:38,648 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 20:42:39,788 - __main__ - INFO - Application started
+2024-07-22 20:42:39,788 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:42:39,789 - __main__ - INFO - Application finished
+2024-07-22 20:42:40,495 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-22 20:42:46,467 - __main__ - INFO - Application started
+2024-07-22 20:42:46,467 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:42:46,469 - __main__ - INFO - Application finished
+2024-07-22 20:42:47,073 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:42:47,193 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-22 20:51:15,856 - __main__ - INFO - Application started
+2024-07-22 20:51:15,856 - __main__ - INFO - Application started
+2024-07-22 20:51:15,856 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:51:15,857 - __main__ - INFO - Performing some tasks...
+2024-07-22 20:51:15,857 - __main__ - INFO - Application finished
+2024-07-22 20:51:15,857 - __main__ - INFO - Application finished
+2024-07-22 20:51:16,395 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 20:51:16,603 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-22 20:51:16,859 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-22 21:35:34,785 - __main__ - INFO - Application started
+2024-07-22 21:35:34,785 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:35:34,785 - __main__ - INFO - Application finished
+2024-07-22 21:35:35,461 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-22 21:35:50,643 - __main__ - INFO - Application started
+2024-07-22 21:35:50,643 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:35:50,644 - __main__ - INFO - Application finished
+2024-07-22 21:35:51,596 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:35:51,718 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-22 21:35:57,133 - __main__ - INFO - Application started
+2024-07-22 21:35:57,134 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:35:57,134 - __main__ - INFO - Application finished
+2024-07-22 21:35:57,303 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:35:57,419 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:14,734 - __main__ - INFO - Application started
+2024-07-22 21:36:14,734 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:14,734 - __main__ - INFO - Application finished
+2024-07-22 21:36:14,758 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:14,885 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:15,532 - __main__ - INFO - Application started
+2024-07-22 21:36:15,533 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:15,533 - __main__ - INFO - Application finished
+2024-07-22 21:36:15,551 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:15,674 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:19,052 - __main__ - INFO - Application started
+2024-07-22 21:36:19,052 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:19,053 - __main__ - INFO - Application finished
+2024-07-22 21:36:19,069 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:19,186 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:27,718 - __main__ - INFO - Application started
+2024-07-22 21:36:27,719 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:27,719 - __main__ - INFO - Application finished
+2024-07-22 21:36:27,738 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:27,859 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:28,470 - __main__ - INFO - Application started
+2024-07-22 21:36:28,470 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:28,470 - __main__ - INFO - Application finished
+2024-07-22 21:36:28,488 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:28,606 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:32,217 - __main__ - INFO - Application started
+2024-07-22 21:36:32,218 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:32,218 - __main__ - INFO - Application finished
+2024-07-22 21:36:32,236 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:32,354 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:35,477 - __main__ - INFO - Application started
+2024-07-22 21:36:35,478 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:35,478 - __main__ - INFO - Application finished
+2024-07-22 21:36:35,502 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:35,629 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:36:37,862 - __main__ - INFO - Application started
+2024-07-22 21:36:37,862 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:36:37,863 - __main__ - INFO - Application finished
+2024-07-22 21:36:37,883 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 21:36:38,004 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 21:39:18,058 - __main__ - INFO - Application started
+2024-07-22 21:39:18,058 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:39:18,058 - __main__ - INFO - Application finished
+2024-07-22 21:58:42,907 - __main__ - INFO - Application started
+2024-07-22 21:58:42,907 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:58:42,908 - __main__ - INFO - Application finished
+2024-07-22 21:58:44,283 - __main__ - INFO - Application started
+2024-07-22 21:58:44,284 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:58:44,284 - __main__ - INFO - Application finished
+2024-07-22 21:58:46,987 - __main__ - INFO - Application started
+2024-07-22 21:58:46,987 - __main__ - INFO - Performing some tasks...
+2024-07-22 21:58:46,988 - __main__ - INFO - Application finished
+2024-07-22 22:04:00,154 - __main__ - INFO - Application started
+2024-07-22 22:04:00,155 - __main__ - INFO - Performing some tasks...
+2024-07-22 22:04:00,155 - __main__ - INFO - Application finished
+2024-07-22 22:04:00,197 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 22:04:00,349 - __main__ - INFO - Application started
+2024-07-22 22:04:00,351 - __main__ - INFO - Performing some tasks...
+2024-07-22 22:04:00,352 - __main__ - INFO - Application finished
+2024-07-22 22:04:00,382 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 22:04:00,461 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 22:04:00,635 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 22:04:01,747 - __main__ - INFO - Application started
+2024-07-22 22:04:01,748 - __main__ - INFO - Performing some tasks...
+2024-07-22 22:04:01,748 - __main__ - INFO - Application finished
+2024-07-22 23:07:16,760 - __main__ - INFO - Application started
+2024-07-22 23:07:16,761 - __main__ - INFO - Performing some tasks...
+2024-07-22 23:07:16,761 - __main__ - INFO - Application finished
+2024-07-22 23:07:16,800 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 23:07:16,959 - __main__ - INFO - Application started
+2024-07-22 23:07:16,960 - __main__ - INFO - Performing some tasks...
+2024-07-22 23:07:16,961 - __main__ - INFO - Application finished
+2024-07-22 23:07:17,060 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 23:07:18,419 - __main__ - INFO - Application started
+2024-07-22 23:07:18,420 - __main__ - INFO - Performing some tasks...
+2024-07-22 23:07:18,420 - __main__ - INFO - Application finished
+2024-07-22 23:07:18,445 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 23:07:18,578 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 23:46:23,765 - __main__ - INFO - Application started
+2024-07-22 23:46:23,765 - __main__ - INFO - Performing some tasks...
+2024-07-22 23:46:23,765 - __main__ - INFO - Application finished
+2024-07-22 23:46:23,807 - __main__ - INFO - Application started
+2024-07-22 23:46:23,808 - __main__ - INFO - Performing some tasks...
+2024-07-22 23:46:23,808 - __main__ - INFO - Application finished
+2024-07-22 23:46:23,835 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 23:46:23,973 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-22 23:46:25,125 - __main__ - INFO - Application started
+2024-07-22 23:46:25,125 - __main__ - INFO - Performing some tasks...
+2024-07-22 23:46:25,125 - __main__ - INFO - Application finished
+2024-07-22 23:46:25,155 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-22 23:46:25,313 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 07:46:13,792 - __main__ - INFO - Application started
+2024-07-23 07:46:13,792 - __main__ - INFO - Performing some tasks...
+2024-07-23 07:46:13,792 - __main__ - INFO - Application finished
+2024-07-23 07:46:13,988 - __main__ - INFO - Application started
+2024-07-23 07:46:13,989 - __main__ - INFO - Performing some tasks...
+2024-07-23 07:46:13,990 - __main__ - INFO - Application finished
+2024-07-23 07:46:15,242 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 07:46:15,510 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 07:46:15,825 - __main__ - INFO - Application started
+2024-07-23 07:46:15,825 - __main__ - INFO - Performing some tasks...
+2024-07-23 07:46:15,825 - __main__ - INFO - Application finished
+2024-07-23 07:46:16,233 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 07:46:16,435 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:29:28,155 - __main__ - INFO - Application started
+2024-07-23 08:29:28,155 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:29:28,155 - __main__ - INFO - Application finished
+2024-07-23 08:29:28,191 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 08:29:28,248 - __main__ - INFO - Application started
+2024-07-23 08:29:28,248 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:29:28,248 - __main__ - INFO - Application finished
+2024-07-23 08:29:28,371 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:29:29,872 - __main__ - INFO - Application started
+2024-07-23 08:29:29,873 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:29:29,873 - __main__ - INFO - Application finished
+2024-07-23 08:29:29,914 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 08:29:30,114 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:46:45,523 - __main__ - INFO - Application started
+2024-07-23 08:46:45,529 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:46:45,529 - __main__ - INFO - Application finished
+2024-07-23 08:46:45,564 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 08:46:45,889 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:46:46,629 - __main__ - INFO - Application started
+2024-07-23 08:46:46,629 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:46:46,629 - __main__ - INFO - Application finished
+2024-07-23 08:46:46,672 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 08:46:46,712 - __main__ - INFO - Application started
+2024-07-23 08:46:46,712 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:46:46,712 - __main__ - INFO - Application finished
+2024-07-23 08:46:47,111 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:58:46,059 - __main__ - INFO - Application started
+2024-07-23 08:58:46,059 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:58:46,059 - __main__ - INFO - Application finished
+2024-07-23 08:58:46,099 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 08:58:46,139 - __main__ - INFO - Application started
+2024-07-23 08:58:46,139 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:58:46,142 - __main__ - INFO - Application finished
+2024-07-23 08:58:46,182 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 08:58:46,280 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:58:46,339 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 08:58:47,656 - __main__ - INFO - Application started
+2024-07-23 08:58:47,656 - __main__ - INFO - Performing some tasks...
+2024-07-23 08:58:47,656 - __main__ - INFO - Application finished
+2024-07-23 09:32:56,348 - __main__ - INFO - Application started
+2024-07-23 09:32:56,348 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:32:56,350 - __main__ - INFO - Application finished
+2024-07-23 09:32:56,391 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 09:32:56,399 - __main__ - INFO - Application started
+2024-07-23 09:32:56,399 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:32:56,407 - __main__ - INFO - Application finished
+2024-07-23 09:32:56,568 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 09:32:57,743 - __main__ - INFO - Application started
+2024-07-23 09:32:57,743 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:32:57,743 - __main__ - INFO - Application finished
+2024-07-23 09:32:57,782 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 09:32:57,963 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 09:45:01,428 - __main__ - INFO - Application started
+2024-07-23 09:45:01,428 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:45:01,436 - __main__ - INFO - Application finished
+2024-07-23 09:45:01,480 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 09:45:01,510 - __main__ - INFO - Application started
+2024-07-23 09:45:01,510 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:45:01,510 - __main__ - INFO - Application finished
+2024-07-23 09:45:01,642 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 09:45:02,738 - __main__ - INFO - Application started
+2024-07-23 09:45:02,739 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:45:02,739 - __main__ - INFO - Application finished
+2024-07-23 09:45:02,776 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 09:45:02,924 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 09:55:32,649 - __main__ - INFO - Application started
+2024-07-23 09:55:32,649 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:55:32,649 - __main__ - INFO - Application finished
+2024-07-23 09:55:33,044 - __main__ - INFO - Application started
+2024-07-23 09:55:33,044 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:55:33,044 - __main__ - INFO - Application finished
+2024-07-23 09:55:33,085 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 09:55:33,261 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 09:55:34,150 - __main__ - INFO - Application started
+2024-07-23 09:55:34,150 - __main__ - INFO - Performing some tasks...
+2024-07-23 09:55:34,150 - __main__ - INFO - Application finished
+2024-07-23 09:55:34,181 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 09:55:34,353 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 10:04:54,611 - __main__ - INFO - Application started
+2024-07-23 10:04:54,611 - __main__ - INFO - Performing some tasks...
+2024-07-23 10:04:54,611 - __main__ - INFO - Application finished
+2024-07-23 10:04:54,935 - __main__ - INFO - Application started
+2024-07-23 10:04:54,935 - __main__ - INFO - Performing some tasks...
+2024-07-23 10:04:54,935 - __main__ - INFO - Application finished
+2024-07-23 10:04:54,972 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 10:04:55,130 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 10:04:55,684 - __main__ - INFO - Application started
+2024-07-23 10:04:55,684 - __main__ - INFO - Performing some tasks...
+2024-07-23 10:04:55,684 - __main__ - INFO - Application finished
+2024-07-23 10:04:55,724 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 10:04:55,884 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 11:13:14,919 - __main__ - INFO - Application started
+2024-07-23 11:13:14,919 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:13:14,919 - __main__ - INFO - Application finished
+2024-07-23 11:13:14,956 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 11:13:15,141 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 11:13:16,086 - __main__ - INFO - Application started
+2024-07-23 11:13:16,087 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:13:16,088 - __main__ - INFO - Application finished
+2024-07-23 11:13:16,116 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 11:13:16,177 - __main__ - INFO - Application started
+2024-07-23 11:13:16,178 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:13:16,179 - __main__ - INFO - Application finished
+2024-07-23 11:13:16,263 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 11:18:04,431 - __main__ - INFO - Application started
+2024-07-23 11:18:04,431 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:18:04,432 - __main__ - INFO - Application finished
+2024-07-23 11:18:04,450 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 11:18:04,457 - __main__ - INFO - Application started
+2024-07-23 11:18:04,458 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:18:04,458 - __main__ - INFO - Application finished
+2024-07-23 11:18:04,569 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 11:18:05,256 - __main__ - INFO - Application started
+2024-07-23 11:18:05,256 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:18:05,256 - __main__ - INFO - Application finished
+2024-07-23 11:18:05,275 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 11:18:05,395 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 11:22:05,880 - __main__ - INFO - Application started
+2024-07-23 11:22:05,882 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:22:05,884 - __main__ - INFO - Application finished
+2024-07-23 11:22:05,979 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 11:22:06,032 - __main__ - INFO - Application started
+2024-07-23 11:22:06,033 - __main__ - INFO - Performing some tasks...
+2024-07-23 11:22:06,033 - __main__ - INFO - Application finished
+2024-07-23 11:22:06,325 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 12:41:08,981 - __main__ - INFO - Application started
+2024-07-23 12:41:08,985 - __main__ - INFO - Performing some tasks...
+2024-07-23 12:41:08,989 - __main__ - INFO - Application finished
+2024-07-23 12:41:09,091 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 12:41:09,218 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 13:40:10,022 - __main__ - INFO - Application started
+2024-07-23 13:40:10,022 - __main__ - INFO - Performing some tasks...
+2024-07-23 13:40:10,022 - __main__ - INFO - Application finished
+2024-07-23 13:40:10,866 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-23 13:40:16,249 - __main__ - INFO - Application started
+2024-07-23 13:40:16,250 - __main__ - INFO - Performing some tasks...
+2024-07-23 13:40:16,251 - __main__ - INFO - Application finished
+2024-07-23 13:40:18,680 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 13:40:18,801 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-23 13:42:26,108 - __main__ - INFO - Application started
+2024-07-23 13:42:26,108 - __main__ - INFO - Application started
+2024-07-23 13:42:26,108 - __main__ - INFO - Performing some tasks...
+2024-07-23 13:42:26,109 - __main__ - INFO - Performing some tasks...
+2024-07-23 13:42:26,109 - __main__ - INFO - Application finished
+2024-07-23 13:42:26,109 - __main__ - INFO - Application finished
+2024-07-23 13:42:27,128 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-23 13:42:27,835 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 13:42:27,948 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-23 13:42:31,002 - __main__ - INFO - Application started
+2024-07-23 13:42:31,002 - __main__ - INFO - Performing some tasks...
+2024-07-23 13:42:31,003 - __main__ - INFO - Application finished
+2024-07-23 13:42:31,023 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 13:42:31,143 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 13:42:33,704 - __main__ - INFO - Application started
+2024-07-23 13:42:33,705 - __main__ - INFO - Performing some tasks...
+2024-07-23 13:42:33,705 - __main__ - INFO - Application finished
+2024-07-23 13:42:33,722 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 13:42:33,836 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 14:42:35,789 - __main__ - INFO - Application started
+2024-07-23 14:42:35,790 - __main__ - INFO - Performing some tasks...
+2024-07-23 14:42:35,792 - __main__ - INFO - Application finished
+2024-07-23 14:42:35,792 - __main__ - INFO - Application started
+2024-07-23 14:42:35,793 - __main__ - INFO - Performing some tasks...
+2024-07-23 14:42:35,794 - __main__ - INFO - Application finished
+2024-07-23 14:42:35,841 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 14:42:35,987 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 14:42:35,991 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 14:42:36,305 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 21:08:09,556 - __main__ - INFO - Application started
+2024-07-23 21:08:09,559 - __main__ - INFO - Application started
+2024-07-23 21:08:09,561 - __main__ - INFO - Performing some tasks...
+2024-07-23 21:08:09,561 - __main__ - INFO - Performing some tasks...
+2024-07-23 21:08:09,561 - __main__ - INFO - Application finished
+2024-07-23 21:08:09,561 - __main__ - INFO - Application finished
+2024-07-23 21:08:09,795 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 21:08:09,960 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-23 21:08:09,965 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-23 21:08:11,074 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-24 07:58:23,952 - __main__ - INFO - Application started
+2024-07-24 07:58:23,960 - __main__ - INFO - Performing some tasks...
+2024-07-24 07:58:23,960 - __main__ - INFO - Application finished
+2024-07-24 07:58:30,964 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-24 07:58:31,248 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-24 07:58:39,449 - __main__ - INFO - Application started
+2024-07-24 07:58:39,449 - __main__ - INFO - Performing some tasks...
+2024-07-24 07:58:39,449 - __main__ - INFO - Application finished
+2024-07-24 07:58:39,501 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-24 07:58:39,817 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-24 08:25:10,656 - __main__ - INFO - Application started
+2024-07-24 08:25:10,657 - __main__ - INFO - Performing some tasks...
+2024-07-24 08:25:10,658 - __main__ - INFO - Application finished
+2024-07-24 08:25:10,701 - __main__ - INFO - Application started
+2024-07-24 08:25:10,706 - __main__ - INFO - Performing some tasks...
+2024-07-24 08:25:10,709 - __main__ - INFO - Application finished
+2024-07-24 08:25:10,714 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-24 08:25:10,925 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-24 08:25:10,929 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-24 08:25:11,345 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-24 13:43:51,804 - __main__ - INFO - Application started
+2024-07-24 13:43:51,824 - __main__ - INFO - Performing some tasks...
+2024-07-24 13:43:51,825 - __main__ - INFO - Application finished
+2024-07-24 13:43:51,825 - __main__ - INFO - Application started
+2024-07-24 13:43:51,862 - __main__ - INFO - Performing some tasks...
+2024-07-24 13:43:51,865 - __main__ - INFO - Application finished
+2024-07-24 13:43:52,360 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-24 13:43:52,532 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-24 13:43:52,539 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-24 13:43:53,540 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:22:45,250 - __main__ - INFO - Application started
+2024-07-25 09:22:45,251 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:22:45,251 - __main__ - INFO - Application finished
+2024-07-25 09:22:46,102 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-25 09:24:01,355 - __main__ - INFO - Application started
+2024-07-25 09:24:01,356 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:24:01,357 - __main__ - INFO - Application finished
+2024-07-25 09:24:04,126 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:24:04,288 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-25 09:27:54,171 - __main__ - INFO - Application started
+2024-07-25 09:27:54,171 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:27:54,172 - __main__ - INFO - Application finished
+2024-07-25 09:27:58,436 - __main__ - INFO - Application started
+2024-07-25 09:27:58,436 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:27:58,436 - __main__ - INFO - Application finished
+2024-07-25 09:28:00,370 - yfinance - ERROR - 
+1 Failed download:
+2024-07-25 09:28:00,370 - yfinance - ERROR - ['JPM']: YFChartError('%ticker%: Invalid input - start date cannot be after end date. startDate = 1753416000, endDate = 1721880000')
+2024-07-25 09:33:08,077 - __main__ - INFO - Application started
+2024-07-25 09:33:08,078 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:08,078 - __main__ - INFO - Application finished
+2024-07-25 09:33:09,421 - yfinance - ERROR - 
+1 Failed download:
+2024-07-25 09:33:09,421 - yfinance - ERROR - ['JPM']: YFChartError('%ticker%: Invalid input - start date cannot be after end date. startDate = 1784952000, endDate = 1721880000')
+2024-07-25 09:33:11,390 - __main__ - INFO - Application started
+2024-07-25 09:33:11,391 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:11,391 - __main__ - INFO - Application finished
+2024-07-25 09:33:28,725 - __main__ - INFO - Application started
+2024-07-25 09:33:28,726 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:28,726 - __main__ - INFO - Application finished
+2024-07-25 09:33:31,886 - __main__ - INFO - Application started
+2024-07-25 09:33:31,886 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:31,886 - __main__ - INFO - Application finished
+2024-07-25 09:33:41,606 - __main__ - INFO - Application started
+2024-07-25 09:33:41,606 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:41,607 - __main__ - INFO - Application finished
+2024-07-25 09:33:42,468 - yfinance - ERROR - 
+1 Failed download:
+2024-07-25 09:33:42,469 - yfinance - ERROR - ['JPM']: YFChartError('%ticker%: Invalid input - start date cannot be after end date. startDate = 1784952000, endDate = 1690257600')
+2024-07-25 09:33:46,156 - __main__ - INFO - Application started
+2024-07-25 09:33:46,156 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:46,156 - __main__ - INFO - Application finished
+2024-07-25 09:33:47,518 - __main__ - INFO - Application started
+2024-07-25 09:33:47,518 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:33:47,519 - __main__ - INFO - Application finished
+2024-07-25 09:35:36,130 - __main__ - INFO - Application started
+2024-07-25 09:35:36,130 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:35:36,130 - __main__ - INFO - Application finished
+2024-07-25 09:35:39,325 - __main__ - INFO - Application started
+2024-07-25 09:35:39,325 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:35:39,325 - __main__ - INFO - Application finished
+2024-07-25 09:35:39,640 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:35:39,772 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:35:39,781 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:35:39,782 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:35:39,798 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\4w0souo8.json
+2024-07-25 09:35:39,804 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\_zx00i2o.json
+2024-07-25 09:35:39,805 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:35:39,806 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:35:39,806 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=6716', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\4w0souo8.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\_zx00i2o.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\prophet_model8fnwng1a\\prophet_model-20240725093539.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:35:39,806 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:35:39,975 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:35:50,496 - __main__ - INFO - Application started
+2024-07-25 09:35:50,497 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:35:50,498 - __main__ - INFO - Application finished
+2024-07-25 09:35:50,721 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:35:50,843 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:35:50,847 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:35:50,856 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\_cug3mlt.json
+2024-07-25 09:35:50,890 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\fxry4cyq.json
+2024-07-25 09:35:50,891 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:35:50,892 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:35:50,892 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=73366', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\_cug3mlt.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\fxry4cyq.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\prophet_model552oscw2\\prophet_model-20240725093550.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:35:50,892 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:35:51,007 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:36:03,647 - __main__ - INFO - Application started
+2024-07-25 09:36:03,647 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:36:03,647 - __main__ - INFO - Application finished
+2024-07-25 09:36:03,889 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:36:04,017 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:36:04,020 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:36:04,029 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\su61f04k.json
+2024-07-25 09:36:04,057 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\6__avz7q.json
+2024-07-25 09:36:04,059 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:36:04,060 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:36:04,060 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=90907', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\su61f04k.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\6__avz7q.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\prophet_modelqwwoowcr\\prophet_model-20240725093604.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:36:04,060 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:36:04,191 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:36:08,673 - __main__ - INFO - Application started
+2024-07-25 09:36:08,674 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:36:08,674 - __main__ - INFO - Application finished
+2024-07-25 09:36:15,917 - __main__ - INFO - Application started
+2024-07-25 09:36:15,918 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:36:15,918 - __main__ - INFO - Application finished
+2024-07-25 09:36:16,124 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:36:16,248 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:36:16,252 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:36:16,260 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\5mfrf0ya.json
+2024-07-25 09:36:16,285 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\z449p00q.json
+2024-07-25 09:36:16,287 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:36:16,287 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:36:16,287 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=95240', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\5mfrf0ya.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\z449p00q.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\prophet_model8drmfyd4\\prophet_model-20240725093616.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:36:16,288 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:36:16,446 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:36:23,774 - __main__ - INFO - Application started
+2024-07-25 09:36:23,774 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:36:23,774 - __main__ - INFO - Application finished
+2024-07-25 09:36:24,370 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:36:24,499 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:36:24,503 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:36:24,513 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\hekocjap.json
+2024-07-25 09:36:24,543 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpkx_vh6vq\7owv8ex3.json
+2024-07-25 09:36:24,545 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:36:24,545 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:36:24,545 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=57037', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\hekocjap.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\7owv8ex3.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpkx_vh6vq\\prophet_modellcbui0he\\prophet_model-20240725093624.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:36:24,546 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:36:24,675 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:36:24,800 - __main__ - INFO - Application started
+2024-07-25 09:36:24,801 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:36:24,801 - __main__ - INFO - Application finished
+2024-07-25 09:46:00,923 - __main__ - INFO - Application started
+2024-07-25 09:46:00,924 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:00,924 - __main__ - INFO - Application finished
+2024-07-25 09:46:01,687 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-25 09:46:04,347 - __main__ - INFO - Application started
+2024-07-25 09:46:04,348 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:04,348 - __main__ - INFO - Application finished
+2024-07-25 09:46:04,965 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:46:05,095 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-25 09:46:05,100 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:46:05,100 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:46:05,110 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\huauit15.json
+2024-07-25 09:46:05,115 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\20abk4m3.json
+2024-07-25 09:46:05,116 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:46:05,116 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:46:05,116 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=81662', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\huauit15.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\20abk4m3.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modeluorfvuyi\\prophet_model-20240725094605.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:46:05,116 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:46:05,168 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:46:13,940 - __main__ - INFO - Application started
+2024-07-25 09:46:13,940 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:13,941 - __main__ - INFO - Application finished
+2024-07-25 09:46:14,156 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:46:14,281 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:46:14,285 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:46:14,285 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:46:14,291 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\z9pojjl5.json
+2024-07-25 09:46:14,297 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\b2zo48sp.json
+2024-07-25 09:46:14,298 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:46:14,298 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:46:14,298 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=94602', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\z9pojjl5.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\b2zo48sp.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelkzqghv0g\\prophet_model-20240725094614.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:46:14,298 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:46:14,347 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:46:17,331 - __main__ - INFO - Application started
+2024-07-25 09:46:17,332 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:17,332 - __main__ - INFO - Application finished
+2024-07-25 09:46:17,533 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:46:17,669 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:46:17,673 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:46:17,673 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:46:17,680 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\0nzslwkq.json
+2024-07-25 09:46:17,684 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\g77_57dg.json
+2024-07-25 09:46:17,686 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:46:17,687 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:46:17,687 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=65661', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\0nzslwkq.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\g77_57dg.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_model_iugiv13\\prophet_model-20240725094617.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:46:17,688 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:46:17,746 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:46:19,222 - __main__ - INFO - Application started
+2024-07-25 09:46:19,222 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:19,222 - __main__ - INFO - Application finished
+2024-07-25 09:46:20,436 - __main__ - INFO - Application started
+2024-07-25 09:46:20,437 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:20,437 - __main__ - INFO - Application finished
+2024-07-25 09:46:20,604 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:46:20,739 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:46:20,743 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:46:20,743 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:46:20,752 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\0hb9rx3y.json
+2024-07-25 09:46:20,758 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\3xva8noa.json
+2024-07-25 09:46:20,759 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:46:20,760 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:46:20,760 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=46906', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\0hb9rx3y.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\3xva8noa.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelkfzhebku\\prophet_model-20240725094620.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:46:20,760 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:46:20,831 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:46:21,634 - __main__ - INFO - Application started
+2024-07-25 09:46:21,635 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:21,635 - __main__ - INFO - Application finished
+2024-07-25 09:46:34,372 - __main__ - INFO - Application started
+2024-07-25 09:46:34,373 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:46:34,375 - __main__ - INFO - Application finished
+2024-07-25 09:46:34,577 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:46:34,725 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:46:34,730 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:46:34,731 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:46:34,741 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\tkump9c0.json
+2024-07-25 09:46:34,753 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\90bw3t_5.json
+2024-07-25 09:46:34,755 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:46:34,755 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:46:34,755 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=81437', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\tkump9c0.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\90bw3t_5.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelv9r2icsf\\prophet_model-20240725094634.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:46:34,756 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:46:34,818 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:59:27,213 - __main__ - INFO - Application started
+2024-07-25 09:59:27,213 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:59:27,214 - __main__ - INFO - Application finished
+2024-07-25 09:59:28,874 - __main__ - INFO - Application started
+2024-07-25 09:59:28,875 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:59:28,875 - __main__ - INFO - Application finished
+2024-07-25 09:59:29,233 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 09:59:29,359 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 09:59:29,363 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-25 09:59:29,363 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 09:59:29,370 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\eylwt8cq.json
+2024-07-25 09:59:29,375 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\rxetpzsm.json
+2024-07-25 09:59:29,377 - cmdstanpy - DEBUG - idx 0
+2024-07-25 09:59:29,377 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 09:59:29,377 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=6336', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\eylwt8cq.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\rxetpzsm.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modeln0tsfz2m\\prophet_model-20240725095929.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 09:59:29,377 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 09:59:29,483 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 09:59:30,490 - __main__ - INFO - Application started
+2024-07-25 09:59:30,490 - __main__ - INFO - Performing some tasks...
+2024-07-25 09:59:30,491 - __main__ - INFO - Application finished
+2024-07-25 09:59:58,020 - tensorflow - WARNING - 5 out of the last 9 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000025C005FE480> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-07-25 09:59:58,240 - tensorflow - WARNING - 6 out of the last 12 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000025C005FE480> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-07-25 10:00:11,706 - __main__ - INFO - Application started
+2024-07-25 10:00:11,707 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:00:11,707 - __main__ - INFO - Application finished
+2024-07-25 10:00:11,976 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:00:12,090 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:00:12,095 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:00:12,107 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\xid31y3j.json
+2024-07-25 10:00:12,143 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\7horp0tm.json
+2024-07-25 10:00:12,145 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:00:12,145 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:00:12,145 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=7131', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\xid31y3j.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\7horp0tm.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelmjnwzkys\\prophet_model-20240725100012.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:00:12,146 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:00:12,285 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:00:29,175 - __main__ - INFO - Application started
+2024-07-25 10:00:29,176 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:00:29,176 - __main__ - INFO - Application finished
+2024-07-25 10:00:29,439 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:00:29,558 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:00:29,561 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:00:29,571 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\71n1f_ar.json
+2024-07-25 10:00:29,599 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\tfds4r0z.json
+2024-07-25 10:00:29,601 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:00:29,601 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:00:29,602 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=92554', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\71n1f_ar.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\tfds4r0z.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelw8xiyogl\\prophet_model-20240725100029.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:00:29,602 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:00:29,689 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:05:42,274 - __main__ - INFO - Application started
+2024-07-25 10:05:42,274 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:05:42,275 - __main__ - INFO - Application finished
+2024-07-25 10:05:42,787 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:05:42,900 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:05:42,903 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:05:42,910 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\wdobvvk9.json
+2024-07-25 10:05:42,934 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\7ffpbuzs.json
+2024-07-25 10:05:42,935 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:05:42,935 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:05:42,936 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=90303', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\wdobvvk9.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\7ffpbuzs.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelr4wmo5fy\\prophet_model-20240725100542.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:05:42,936 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:05:43,027 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:09:53,241 - __main__ - INFO - Application started
+2024-07-25 10:09:53,242 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:09:53,242 - __main__ - INFO - Application finished
+2024-07-25 10:09:53,825 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:09:53,943 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:09:53,947 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:09:53,955 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\y1us0bal.json
+2024-07-25 10:09:53,978 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\systrc6v.json
+2024-07-25 10:09:53,980 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:09:53,980 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:09:53,980 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=56024', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\y1us0bal.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\systrc6v.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelfr7t02jg\\prophet_model-20240725100953.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:09:53,980 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:09:54,073 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:16:57,917 - __main__ - INFO - Application started
+2024-07-25 10:16:57,918 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:16:57,918 - __main__ - INFO - Application finished
+2024-07-25 10:16:58,291 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:16:58,419 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:16:58,423 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:16:58,432 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\fet9o11s.json
+2024-07-25 10:16:58,458 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\cgfplxzg.json
+2024-07-25 10:16:58,460 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:16:58,460 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:16:58,460 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=93141', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\fet9o11s.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\cgfplxzg.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelbx8jk5uw\\prophet_model-20240725101658.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:16:58,460 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:16:58,584 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:22:41,645 - __main__ - INFO - Application started
+2024-07-25 10:22:41,646 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:22:41,647 - __main__ - INFO - Application finished
+2024-07-25 10:22:42,048 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:22:42,166 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:22:42,169 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:22:42,175 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\sj41mr6u.json
+2024-07-25 10:22:42,199 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\wrmuzant.json
+2024-07-25 10:22:42,200 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:22:42,200 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:22:42,201 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=22608', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\sj41mr6u.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\wrmuzant.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_model2sl5vaic\\prophet_model-20240725102242.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:22:42,201 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:22:42,344 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:27:14,448 - __main__ - INFO - Application started
+2024-07-25 10:27:14,449 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:27:14,449 - __main__ - INFO - Application finished
+2024-07-25 10:27:14,987 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:27:15,101 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:27:15,105 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:27:15,111 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\zwtuwyk1.json
+2024-07-25 10:27:15,136 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\nxy0fdk0.json
+2024-07-25 10:27:15,137 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:27:15,137 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:27:15,138 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=80649', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\zwtuwyk1.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\nxy0fdk0.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelm14xqrhb\\prophet_model-20240725102715.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:27:15,138 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:27:15,268 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:42:43,483 - __main__ - INFO - Application started
+2024-07-25 10:42:43,484 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:42:43,484 - __main__ - INFO - Application finished
+2024-07-25 10:42:43,965 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:42:44,087 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:42:44,092 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:42:44,099 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\ivnhmo7x.json
+2024-07-25 10:42:44,123 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\788p_6u0.json
+2024-07-25 10:42:44,125 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:42:44,125 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:42:44,125 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=70536', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\ivnhmo7x.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\788p_6u0.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modeln0br76_y\\prophet_model-20240725104244.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:42:44,126 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:42:44,246 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:42:52,677 - __main__ - INFO - Application started
+2024-07-25 10:42:52,678 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:42:52,678 - __main__ - INFO - Application finished
+2024-07-25 10:42:52,952 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:42:53,069 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:42:53,073 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:42:53,080 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\li5qalkj.json
+2024-07-25 10:42:53,105 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\1p69fy1g.json
+2024-07-25 10:42:53,107 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:42:53,107 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:42:53,107 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=95172', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\li5qalkj.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\1p69fy1g.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelw0hcb4h9\\prophet_model-20240725104253.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:42:53,108 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:42:53,253 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:42:53,982 - __main__ - INFO - Application started
+2024-07-25 10:42:53,982 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:42:53,983 - __main__ - INFO - Application finished
+2024-07-25 10:42:54,780 - __main__ - INFO - Application started
+2024-07-25 10:42:54,781 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:42:54,781 - __main__ - INFO - Application finished
+2024-07-25 10:42:55,101 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:42:55,736 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:42:55,741 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:42:55,747 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\xn2h3fjp.json
+2024-07-25 10:42:55,775 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\r01yzd48.json
+2024-07-25 10:42:55,784 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:42:55,784 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:42:55,784 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=23832', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\xn2h3fjp.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\r01yzd48.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_model7vk_uaun\\prophet_model-20240725104255.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:42:55,785 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:42:55,914 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:46:34,754 - __main__ - INFO - Application started
+2024-07-25 10:46:34,755 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:46:34,755 - __main__ - INFO - Application finished
+2024-07-25 10:46:35,122 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:46:35,240 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:46:35,243 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:46:35,252 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\dr0j376q.json
+2024-07-25 10:46:35,276 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\7cy3fmt4.json
+2024-07-25 10:46:35,278 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:46:35,278 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:46:35,278 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=94302', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\dr0j376q.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\7cy3fmt4.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_models759_t4n\\prophet_model-20240725104635.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:46:35,278 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:46:35,414 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:49:53,175 - __main__ - INFO - Application started
+2024-07-25 10:49:53,177 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:49:53,177 - __main__ - INFO - Application finished
+2024-07-25 10:49:53,610 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:49:53,731 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:49:53,734 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:49:53,741 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\kbb80d_t.json
+2024-07-25 10:49:53,765 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\dq184xmi.json
+2024-07-25 10:49:53,766 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:49:53,767 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:49:53,767 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=17671', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\kbb80d_t.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\dq184xmi.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modelcbxpcsym\\prophet_model-20240725104953.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:49:53,768 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:49:53,880 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:51:52,940 - __main__ - INFO - Application started
+2024-07-25 10:51:52,941 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:51:52,941 - __main__ - INFO - Application finished
+2024-07-25 10:51:53,268 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:51:53,382 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:51:53,386 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:51:53,393 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\p3yjb8o1.json
+2024-07-25 10:51:53,419 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\pahwj24e.json
+2024-07-25 10:51:53,421 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:51:53,421 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:51:53,421 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=37479', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\p3yjb8o1.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\pahwj24e.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_modeljtf4emlv\\prophet_model-20240725105153.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:51:53,422 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:51:53,527 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-25 10:54:05,302 - __main__ - INFO - Application started
+2024-07-25 10:54:05,302 - __main__ - INFO - Performing some tasks...
+2024-07-25 10:54:05,302 - __main__ - INFO - Application finished
+2024-07-25 10:54:05,722 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-25 10:54:05,833 - cmdstanpy - DEBUG - TBB already found in load path
+2024-07-25 10:54:05,836 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-25 10:54:05,844 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\o6uc8c20.json
+2024-07-25 10:54:05,867 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpo8jntmar\yyv8bhae.json
+2024-07-25 10:54:05,869 - cmdstanpy - DEBUG - idx 0
+2024-07-25 10:54:05,869 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-25 10:54:05,869 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=22026', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\o6uc8c20.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\yyv8bhae.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpo8jntmar\\prophet_model3_zj2let\\prophet_model-20240725105405.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-25 10:54:05,870 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-25 10:54:06,021 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:39:38,986 - __main__ - INFO - Application started
+2024-07-26 23:39:38,988 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:39:38,988 - __main__ - INFO - Application finished
+2024-07-26 23:39:40,186 - __main__ - INFO - Application started
+2024-07-26 23:39:40,187 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:39:40,188 - __main__ - INFO - Application finished
+2024-07-26 23:39:40,189 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:39:48,854 - __main__ - INFO - Application started
+2024-07-26 23:39:48,854 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:39:48,855 - __main__ - INFO - Application finished
+2024-07-26 23:39:51,945 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:39:52,108 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:39:52,115 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:39:52,115 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:39:52,129 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpaw7yn831\j1vn4m0_.json
+2024-07-26 23:39:52,134 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpaw7yn831\uca18bwx.json
+2024-07-26 23:39:52,138 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:39:52,138 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:39:52,139 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=16447', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpaw7yn831\\j1vn4m0_.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpaw7yn831\\uca18bwx.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpaw7yn831\\prophet_modelnidoruje\\prophet_model-20240726233952.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:39:52,139 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:39:52,296 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:43:33,031 - __main__ - INFO - Application started
+2024-07-26 23:43:33,031 - __main__ - INFO - Application started
+2024-07-26 23:43:33,031 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:43:33,032 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:43:33,032 - __main__ - INFO - Application finished
+2024-07-26 23:43:33,032 - __main__ - INFO - Application started
+2024-07-26 23:43:33,032 - __main__ - INFO - Application finished
+2024-07-26 23:43:33,035 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:43:33,037 - __main__ - INFO - Application finished
+2024-07-26 23:43:33,995 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:43:34,137 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:43:34,146 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:43:34,147 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:43:34,169 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpwkfbc02j\922txcfp.json
+2024-07-26 23:43:34,181 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpwkfbc02j\o6j8sjhr.json
+2024-07-26 23:43:34,185 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:43:34,186 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:43:34,186 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=47741', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpwkfbc02j\\922txcfp.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpwkfbc02j\\o6j8sjhr.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpwkfbc02j\\prophet_modellymqdvur\\prophet_model-20240726234334.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:43:34,187 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:43:34,249 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:43:34,435 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:45:57,527 - __main__ - INFO - Application started
+2024-07-26 23:45:57,528 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:45:57,528 - __main__ - INFO - Application finished
+2024-07-26 23:45:57,528 - __main__ - INFO - Application started
+2024-07-26 23:45:57,528 - __main__ - INFO - Application started
+2024-07-26 23:45:57,530 - __main__ - INFO - Application started
+2024-07-26 23:45:57,531 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:45:57,531 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:45:57,532 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:45:57,533 - __main__ - INFO - Application finished
+2024-07-26 23:45:57,534 - __main__ - INFO - Application finished
+2024-07-26 23:45:57,534 - __main__ - INFO - Application finished
+2024-07-26 23:45:58,744 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:45:58,872 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:45:58,879 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:45:58,879 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:45:58,892 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp3e79wy_g\d453h2qd.json
+2024-07-26 23:45:58,900 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp3e79wy_g\10nnogfk.json
+2024-07-26 23:45:58,904 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:45:58,904 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:45:58,905 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=10506', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp3e79wy_g\\d453h2qd.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp3e79wy_g\\10nnogfk.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp3e79wy_g\\prophet_modelqv7z8gjv\\prophet_model-20240726234558.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:45:58,905 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:45:58,958 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:45:59,423 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:46:39,622 - __main__ - INFO - Application started
+2024-07-26 23:46:39,622 - __main__ - INFO - Application started
+2024-07-26 23:46:39,622 - __main__ - INFO - Application started
+2024-07-26 23:46:39,624 - __main__ - INFO - Application started
+2024-07-26 23:46:39,624 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:46:39,624 - __main__ - INFO - Application started
+2024-07-26 23:46:39,624 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:46:39,625 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:46:39,625 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:46:39,625 - __main__ - INFO - Application finished
+2024-07-26 23:46:39,625 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:46:39,625 - __main__ - INFO - Application finished
+2024-07-26 23:46:39,625 - __main__ - INFO - Application finished
+2024-07-26 23:46:39,628 - __main__ - INFO - Application finished
+2024-07-26 23:46:39,634 - __main__ - INFO - Application finished
+2024-07-26 23:46:41,902 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:46:42,719 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:46:42,853 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:46:42,859 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:46:42,860 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:46:42,874 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpspupl6da\qx2tw5wp.json
+2024-07-26 23:46:42,880 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpspupl6da\hjvfd2um.json
+2024-07-26 23:46:42,882 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:46:42,883 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:46:42,883 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=96261', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpspupl6da\\qx2tw5wp.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpspupl6da\\hjvfd2um.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpspupl6da\\prophet_modelp9lbtwhk\\prophet_model-20240726234642.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:46:42,883 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:46:42,933 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:48:50,984 - __main__ - INFO - Application started
+2024-07-26 23:48:50,984 - __main__ - INFO - Application started
+2024-07-26 23:48:50,985 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:48:50,985 - __main__ - INFO - Application started
+2024-07-26 23:48:50,985 - __main__ - INFO - Application started
+2024-07-26 23:48:50,985 - __main__ - INFO - Application started
+2024-07-26 23:48:50,985 - __main__ - INFO - Application started
+2024-07-26 23:48:50,985 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:48:50,986 - __main__ - INFO - Application finished
+2024-07-26 23:48:50,986 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:48:50,986 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:48:50,986 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:48:50,988 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:48:50,988 - __main__ - INFO - Application finished
+2024-07-26 23:48:50,988 - __main__ - INFO - Application finished
+2024-07-26 23:48:50,988 - __main__ - INFO - Application finished
+2024-07-26 23:48:50,990 - __main__ - INFO - Application finished
+2024-07-26 23:48:50,990 - __main__ - INFO - Application finished
+2024-07-26 23:48:53,691 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:49:04,305 - __main__ - INFO - Application started
+2024-07-26 23:49:04,306 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:49:04,307 - __main__ - INFO - Application finished
+2024-07-26 23:49:04,875 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:49:05,000 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:49:05,005 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:49:05,006 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:49:05,017 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp4syr8y8e\11o286ag.json
+2024-07-26 23:49:05,021 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp4syr8y8e\twdkz_c4.json
+2024-07-26 23:49:05,023 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:49:05,023 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:49:05,023 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=12209', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp4syr8y8e\\11o286ag.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp4syr8y8e\\twdkz_c4.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp4syr8y8e\\prophet_modelcgludq5y\\prophet_model-20240726234905.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:49:05,024 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:49:05,079 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:51:02,533 - __main__ - INFO - Application started
+2024-07-26 23:51:02,534 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,534 - __main__ - INFO - Application started
+2024-07-26 23:51:02,534 - __main__ - INFO - Application started
+2024-07-26 23:51:02,535 - __main__ - INFO - Application started
+2024-07-26 23:51:02,535 - __main__ - INFO - Application started
+2024-07-26 23:51:02,535 - __main__ - INFO - Application started
+2024-07-26 23:51:02,535 - __main__ - INFO - Application started
+2024-07-26 23:51:02,535 - __main__ - INFO - Application finished
+2024-07-26 23:51:02,535 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,536 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,536 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,536 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,536 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,536 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:51:02,537 - __main__ - INFO - Application finished
+2024-07-26 23:51:02,538 - __main__ - INFO - Application finished
+2024-07-26 23:51:02,538 - __main__ - INFO - Application finished
+2024-07-26 23:51:02,538 - __main__ - INFO - Application finished
+2024-07-26 23:51:02,538 - __main__ - INFO - Application finished
+2024-07-26 23:51:02,538 - __main__ - INFO - Application finished
+2024-07-26 23:51:05,420 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:51:06,178 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:51:06,311 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:51:06,316 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:51:06,316 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:51:06,330 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpuzyzfpa9\uc188ltr.json
+2024-07-26 23:51:06,337 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpuzyzfpa9\cuqju4bm.json
+2024-07-26 23:51:06,339 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:51:06,339 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:51:06,339 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=6335', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpuzyzfpa9\\uc188ltr.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpuzyzfpa9\\cuqju4bm.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpuzyzfpa9\\prophet_model75xyx4y9\\prophet_model-20240726235106.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:51:06,340 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:51:06,396 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:52:57,981 - __main__ - INFO - Application started
+2024-07-26 23:52:57,982 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,982 - __main__ - INFO - Application started
+2024-07-26 23:52:57,982 - __main__ - INFO - Application started
+2024-07-26 23:52:57,982 - __main__ - INFO - Application started
+2024-07-26 23:52:57,982 - __main__ - INFO - Application started
+2024-07-26 23:52:57,982 - __main__ - INFO - Application started
+2024-07-26 23:52:57,983 - __main__ - INFO - Application started
+2024-07-26 23:52:57,983 - __main__ - INFO - Application started
+2024-07-26 23:52:57,983 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,983 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,983 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,984 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,984 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,984 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,985 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,985 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:52:57,986 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,986 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,987 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,987 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,988 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,989 - __main__ - INFO - Application finished
+2024-07-26 23:52:57,990 - __main__ - INFO - Application finished
+2024-07-26 23:53:00,416 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-26 23:53:00,541 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-26 23:53:00,548 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-26 23:53:00,549 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-26 23:53:00,564 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpektb_zp8\sue9xyab.json
+2024-07-26 23:53:00,574 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpektb_zp8\4r45zfio.json
+2024-07-26 23:53:00,584 - cmdstanpy - DEBUG - idx 0
+2024-07-26 23:53:00,585 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-26 23:53:00,585 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=20206', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpektb_zp8\\sue9xyab.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpektb_zp8\\4r45zfio.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpektb_zp8\\prophet_modelwo4kmp3g\\prophet_model-20240726235300.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-26 23:53:00,586 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-26 23:53:00,640 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-26 23:53:01,208 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-26 23:54:10,672 - __main__ - INFO - Application started
+2024-07-26 23:54:10,673 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:10,673 - __main__ - INFO - Application finished
+2024-07-26 23:54:11,646 - __main__ - INFO - Application started
+2024-07-26 23:54:11,648 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:11,649 - __main__ - INFO - Application started
+2024-07-26 23:54:11,650 - __main__ - INFO - Application finished
+2024-07-26 23:54:11,652 - __main__ - INFO - Application started
+2024-07-26 23:54:11,652 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:11,655 - __main__ - INFO - Application started
+2024-07-26 23:54:11,656 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:11,658 - __main__ - INFO - Application started
+2024-07-26 23:54:11,658 - __main__ - INFO - Application finished
+2024-07-26 23:54:11,661 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:11,667 - __main__ - INFO - Application finished
+2024-07-26 23:54:11,670 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:11,676 - __main__ - INFO - Application started
+2024-07-26 23:54:11,679 - __main__ - INFO - Application finished
+2024-07-26 23:54:11,679 - __main__ - INFO - Application finished
+2024-07-26 23:54:11,815 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:11,954 - __main__ - INFO - Application finished
+2024-07-26 23:54:18,621 - __main__ - INFO - Application started
+2024-07-26 23:54:18,622 - __main__ - INFO - Performing some tasks...
+2024-07-26 23:54:18,622 - __main__ - INFO - Application finished
+2024-07-27 22:13:53,645 - __main__ - INFO - Application started
+2024-07-27 22:13:53,645 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:53,645 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,586 - __main__ - INFO - Application started
+2024-07-27 22:13:54,587 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,587 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,587 - __main__ - INFO - Application started
+2024-07-27 22:13:54,588 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,588 - __main__ - INFO - Application started
+2024-07-27 22:13:54,589 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,589 - __main__ - INFO - Application started
+2024-07-27 22:13:54,589 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,592 - __main__ - INFO - Application started
+2024-07-27 22:13:54,592 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,594 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,594 - __main__ - INFO - Application started
+2024-07-27 22:13:54,595 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,596 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,598 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,599 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,603 - __main__ - INFO - Application finished
+2024-07-27 22:13:54,618 - __main__ - INFO - Application started
+2024-07-27 22:13:54,620 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:13:54,623 - __main__ - INFO - Application finished
+2024-07-27 22:13:56,175 - yfinance - ERROR - 
+1 Failed download:
+2024-07-27 22:13:56,176 - yfinance - ERROR - ['BAC']: ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'query2.finance.yahoo.com\', port=443): Max retries exceeded with url: /v8/finance/chart/%ticker%?period1=1690596834&period2=1722132834&interval=1d&includePrePost=False&events=div%2Csplits%2CcapitalGains&crumb=ivzpTJVP7lc (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F470C39510>: Failed to resolve \'query2.finance.yahoo.com\' ([Errno 11001] getaddrinfo failed)"))'))
+2024-07-27 22:30:09,695 - __main__ - INFO - Application started
+2024-07-27 22:30:09,696 - __main__ - INFO - Application started
+2024-07-27 22:30:09,696 - __main__ - INFO - Application started
+2024-07-27 22:30:09,696 - __main__ - INFO - Application started
+2024-07-27 22:30:09,697 - __main__ - INFO - Application started
+2024-07-27 22:30:09,697 - __main__ - INFO - Application started
+2024-07-27 22:30:09,697 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,697 - __main__ - INFO - Application started
+2024-07-27 22:30:09,697 - __main__ - INFO - Application started
+2024-07-27 22:30:09,697 - __main__ - INFO - Application started
+2024-07-27 22:30:09,698 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,698 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,698 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,699 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,699 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,699 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,700 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,700 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,700 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:30:09,700 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,701 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,701 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,701 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,702 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,702 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,703 - __main__ - INFO - Application finished
+2024-07-27 22:30:09,703 - __main__ - INFO - Application finished
+2024-07-27 22:30:12,475 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-27 22:30:14,291 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-27 22:30:14,348 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-27 22:30:14,352 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-27 22:30:14,353 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-27 22:30:14,364 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpk62j1c1m\xikbvytr.json
+2024-07-27 22:30:14,369 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpk62j1c1m\f25dpomn.json
+2024-07-27 22:30:14,371 - cmdstanpy - DEBUG - idx 0
+2024-07-27 22:30:14,371 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-27 22:30:14,371 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=226', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpk62j1c1m\\xikbvytr.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpk62j1c1m\\f25dpomn.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpk62j1c1m\\prophet_modelt70sjt0n\\prophet_model-20240727223014.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-27 22:30:14,372 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-27 22:30:14,497 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-27 22:34:07,066 - __main__ - INFO - Application started
+2024-07-27 22:34:07,067 - __main__ - INFO - Application started
+2024-07-27 22:34:07,067 - __main__ - INFO - Application started
+2024-07-27 22:34:07,067 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,067 - __main__ - INFO - Application started
+2024-07-27 22:34:07,067 - __main__ - INFO - Application started
+2024-07-27 22:34:07,068 - __main__ - INFO - Application started
+2024-07-27 22:34:07,068 - __main__ - INFO - Application started
+2024-07-27 22:34:07,068 - __main__ - INFO - Application started
+2024-07-27 22:34:07,068 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,068 - __main__ - INFO - Application started
+2024-07-27 22:34:07,068 - __main__ - INFO - Application started
+2024-07-27 22:34:07,068 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,069 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,069 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,069 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,069 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,070 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,070 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,070 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,070 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,071 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:34:07,071 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,071 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,072 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,073 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,073 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,073 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,074 - __main__ - INFO - Application finished
+2024-07-27 22:34:07,074 - __main__ - INFO - Application finished
+2024-07-27 22:34:09,672 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-27 22:34:09,788 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-27 22:34:09,794 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-27 22:34:09,794 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-27 22:34:09,806 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpjnicwg2f\dniruehp.json
+2024-07-27 22:34:09,815 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpjnicwg2f\7uo5zy1i.json
+2024-07-27 22:34:09,818 - cmdstanpy - DEBUG - idx 0
+2024-07-27 22:34:09,819 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-27 22:34:09,819 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=52782', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpjnicwg2f\\dniruehp.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpjnicwg2f\\7uo5zy1i.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpjnicwg2f\\prophet_modelxnl94d16\\prophet_model-20240727223409.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-27 22:34:09,819 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-27 22:34:09,881 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-27 22:34:10,090 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-27 22:37:37,810 - __main__ - INFO - Application started
+2024-07-27 22:37:37,811 - __main__ - INFO - Application started
+2024-07-27 22:37:37,811 - __main__ - INFO - Application started
+2024-07-27 22:37:37,811 - __main__ - INFO - Application started
+2024-07-27 22:37:37,811 - __main__ - INFO - Application started
+2024-07-27 22:37:37,811 - __main__ - INFO - Application started
+2024-07-27 22:37:37,812 - __main__ - INFO - Application started
+2024-07-27 22:37:37,812 - __main__ - INFO - Application started
+2024-07-27 22:37:37,812 - __main__ - INFO - Application started
+2024-07-27 22:37:37,812 - __main__ - INFO - Application started
+2024-07-27 22:37:37,812 - __main__ - INFO - Application started
+2024-07-27 22:37:37,812 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,812 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,813 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,813 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,813 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,813 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,814 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,814 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,814 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,815 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,815 - __main__ - INFO - Performing some tasks...
+2024-07-27 22:37:37,815 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,815 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,815 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,816 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,816 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,816 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,816 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,816 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,817 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,817 - __main__ - INFO - Application finished
+2024-07-27 22:37:37,817 - __main__ - INFO - Application finished
+2024-07-27 22:37:40,966 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-27 22:37:41,708 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-07-27 22:37:41,824 - cmdstanpy - DEBUG - Adding TBB (C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-07-27 22:37:41,829 - prophet - INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+2024-07-27 22:37:41,829 - prophet - INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-07-27 22:37:41,840 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp2lyd8f67\twd20kry.json
+2024-07-27 22:37:41,845 - cmdstanpy - DEBUG - input tempfile: C:\Users\Admin\AppData\Local\Temp\tmp2lyd8f67\_4r_pb92.json
+2024-07-27 22:37:41,847 - cmdstanpy - DEBUG - idx 0
+2024-07-27 22:37:41,847 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-07-27 22:37:41,847 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\Admin\\Documents\\MLAI\\venv\\CSCN8010_clascis_ml\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=2045', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp2lyd8f67\\twd20kry.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp2lyd8f67\\_4r_pb92.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp2lyd8f67\\prophet_model4ad1_bbw\\prophet_model-20240727223741.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-07-27 22:37:41,848 - cmdstanpy - INFO - Chain [1] start processing
+2024-07-27 22:37:41,887 - cmdstanpy - INFO - Chain [1] done processing
+2024-07-27 23:27:19,477 - __main__ - INFO - Application started
+2024-07-27 23:27:19,477 - __main__ - INFO - Application started
+2024-07-27 23:27:19,478 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:19,478 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:19,478 - __main__ - INFO - Application finished
+2024-07-27 23:27:19,479 - __main__ - INFO - Application finished
+2024-07-27 23:27:20,551 - tensorflow - WARNING - From C:\Users\Admin\Documents\MLAI\venv\CSCN8010_clascis_ml\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-07-27 23:27:20,972 - __main__ - INFO - Application started
+2024-07-27 23:27:20,972 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:20,973 - __main__ - INFO - Application finished
+2024-07-27 23:27:22,696 - __main__ - INFO - Application started
+2024-07-27 23:27:22,697 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:22,697 - __main__ - INFO - Application finished
+2024-07-27 23:27:24,130 - __main__ - INFO - Application started
+2024-07-27 23:27:24,130 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:24,131 - __main__ - INFO - Application finished
+2024-07-27 23:27:25,132 - __main__ - INFO - Application started
+2024-07-27 23:27:25,133 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:25,133 - __main__ - INFO - Application finished
+2024-07-27 23:27:27,129 - __main__ - INFO - Application started
+2024-07-27 23:27:27,130 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:27,131 - __main__ - INFO - Application finished
+2024-07-27 23:27:38,117 - __main__ - INFO - Application started
+2024-07-27 23:27:38,117 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:38,118 - __main__ - INFO - Application finished
+2024-07-27 23:27:42,228 - __main__ - INFO - Application started
+2024-07-27 23:27:42,228 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:42,229 - __main__ - INFO - Application finished
+2024-07-27 23:27:43,033 - __main__ - INFO - Application started
+2024-07-27 23:27:43,034 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:43,034 - __main__ - INFO - Application finished
+2024-07-27 23:27:44,104 - __main__ - INFO - Application started
+2024-07-27 23:27:44,104 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:44,105 - __main__ - INFO - Application finished
+2024-07-27 23:27:47,106 - __main__ - INFO - Application started
+2024-07-27 23:27:47,107 - __main__ - INFO - Performing some tasks...
+2024-07-27 23:27:47,107 - __main__ - INFO - Application finished

@@ -1,0 +1,13 @@
+pandas
+yfinance
+keras
+matplotlib
+plotly>=5.22.0
+tensorflow>=2.16.0,<3.0
+pandas_ta
+seaborn
+numpy==1.26.3
+scikit-learn==1.3.2
+streamlit==1.29.0
+streamlit-option-menu==0.3.6
+pystan

@@ -1,20 +1,23 @@
+/* CSS for customizing Streamlit buttons */
 body {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
 }
 
 .stButton>button {
-    color: #4F8BF9; /* Blue color */
-    border-radius: 50%;
-    height: 3em;
-    width: 5em;
+    background-color: #4F8BF9; /* Blue color */
+    color: white; /* Text color */
+    border-radius: 20px; /* Rounded corners */
+    height: 50px; /* Adjust height as needed */
+    width: 120px; /* Adjust width as needed */
+    font-size: 16px; /* Adjust font size */
 }
 
 .stButton>button:hover {
-    background-color: #4F8BF9; /* Blue color on hover */
-    color: white; /* Text color on hover */
+    background-color: #3366CC; /* Darker blue color on hover */
 }
 
 .stTextInput>div>div>input {
-    color: #4F8BF9;
+    color: #4F8BF9; /* Blue color */
+    font-size: 16px; /* Adjust font size */
 }
