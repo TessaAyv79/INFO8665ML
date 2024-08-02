@@ -1,0 +1,16 @@
+FROM python:3.8-slim
+
+WORKDIR /app
+
+# Copy the requirements file first and install dependencies
+COPY requirements.txt requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the entire directory into the Docker image
+COPY . .
+
+# Create the 'saved_models' directory and copy 'diabetes_model.sav'
+RUN mkdir -p saved_models && \
+    cp Docker-main/saved_models/diabetes_model.sav /app/saved_models/diabetes_model.sav
+
+CMD ["streamlit", "run", "app.py"]

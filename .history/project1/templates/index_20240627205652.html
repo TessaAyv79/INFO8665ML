@@ -1,0 +1,62 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Analysis Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Stock Analysis Dashboard</h1>
+        <form method="POST">
+            <div class="form-group">
+                <label for="ticker">Select Stock Ticker:</label>
+                <select id="ticker" name="ticker" class="form-control" required>
+                    {% for idx in range(tickers|length) %}
+                        <option value="{{ tickers[idx] }}">{{ company_names[idx] }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="start_date">Start Date:</label>
+                <input type="date" id="start_date" name="start_date" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="end_date">End Date:</label>
+                <input type="date" id="end_date" name="end_date" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label>Select Criteria for Analysis:</label><br>
+                <input type="checkbox" id="adjusted_close" name="criteria" value="adjusted_close">
+                <label for="adjusted_close">Adjusted Close Price</label><br>
+                <input type="checkbox" id="volume" name="criteria" value="volume">
+                <label for="volume">Volume</label><br>
+                <input type="checkbox" id="moving_averages" name="criteria" value="moving_averages">
+                <label for="moving_averages">Moving Averages</label><br>
+                <!-- Daha fazla kriter eklenebilir -->
+            </div>
+            <button type="submit" class="btn btn-primary">Analyze</button>
+        </form>
+
+        <div class="mt-5">
+            {% if graphs %}
+                <h2>Analysis Results</h2>
+                <div class="row">
+                    {% for graph in graphs %}
+                        <div class="col-md-6">
+                            <img src="data:image/png;base64,{{ graph }}" class="img-fluid">
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
